@@ -187,12 +187,10 @@ cd $HOME && rm -rf gensyn-testnet && git clone https://github.com/zunxbt/gensyn-
 ## Error Solution ✅
 
 ```
-# Step 1
 cd rl-swarm
 ```
 
 ```
-# Step 2
 git switch main
 git reset --hard
 git clean -fd
@@ -200,11 +198,9 @@ git pull origin main
 ```
 
 ```
-# Step 3
 curl https://raw.githubusercontent.com/imysryasir/Gsnyn-1-Click-Solutions/refs/heads/main/updated-auto-termination-solution | bash
 ```
 
 ```
-# Step 4
 cd $HOME && rm -rf gensyn-testnet && git clone https://github.com/zunxbt/gensyn-testnet.git && chmod +x gensyn-testnet/gensyn.sh && ./gensyn-testnet/gensyn.sh
 ```
