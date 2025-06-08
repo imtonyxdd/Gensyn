@@ -12,7 +12,7 @@ cp ~/swam.pem ~/swam.pem.bak
 
 ---
 
-### ❌ Delete Previous Files
+### ❌ Delete Previous Files (optional)
 
 ```
 rm -rf ~/rl-swarm
