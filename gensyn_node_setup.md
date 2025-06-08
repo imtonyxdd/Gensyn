@@ -164,13 +164,12 @@ sudo nano grp*.yaml
 
 Inside the opened file, change:
 
-```
 torch_dtype: float32
 bf16: false
 tf32: false
 gradient_checkpointing: false
 per_device_train_batch_size: 1
-```
+
 
 Save with `Ctrl + X`, then `Y`, then `Enter`.
 
